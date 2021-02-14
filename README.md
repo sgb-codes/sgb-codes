@@ -7,7 +7,11 @@
 ## Skills
 <ul>
   <li>HTML</li>
-  <li>CSS</li>
+  <li>CSS
+    <ul>
+      <li>Bootstrap</li>
+    </ul>
+  </li>
   <li>Javascript</li>
   <li>Swift</li>
 </ul>
