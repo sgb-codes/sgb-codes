@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## Skills
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>Javascript</li>
+  <li>Swift</li>
+</ul>
+
 <!--
 **sgb-codes/sgb-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
