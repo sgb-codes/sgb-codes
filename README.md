@@ -17,8 +17,8 @@
 </ul>
 
 ## Contact Me
-LinkedIn: https://linkedin.com/in/sgb-codes
-Twitter: https://twitter.com/sgbcodes
+<p>LinkedIn: https://linkedin.com/in/sgb-codes</p>
+<p>Twitter: https://twitter.com/sgbcodes</p>
 
 <!--
 **sgb-codes/sgb-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
