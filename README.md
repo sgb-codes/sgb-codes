@@ -6,7 +6,6 @@
 
 ## Skills
 <ul>
-  <ul>
   <li>HTML</li>
   <li>CSS
     <ul>
@@ -14,10 +13,7 @@
     </ul>
   </li>
   <li>Javascript</li>
-  </ul>
-  <ul>
   <li>Swift</li>
-  </ul>
 </ul>
 
 ## Contact Me
