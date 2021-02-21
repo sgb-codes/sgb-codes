@@ -17,7 +17,7 @@
 </ul>
 
 ## Contact Me
-<p>LinkedIn: https://linkedin.com/in/sgb-codes</p>
+<p>LinkedIn: https://linkedin.com/in/sgb-codes <i class="fab fa-linkedin"></i></p>
 <p>Twitter: https://twitter.com/sgbcodes</p>
 
 <!--
