@@ -13,6 +13,9 @@
     </ul>
   </li>
   <li>Javascript</li>
+  <ul>
+    <li>jQuery</li>
+  </ul>
   <li>Swift</li>
 </ul>
 
